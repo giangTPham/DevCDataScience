@@ -1,2 +1,2 @@
-# DevCDataScienceWeek1
-Homework for class Data Science
+# DevCDataScience
+Homework for class Data Science DevC Challenge
